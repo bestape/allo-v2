@@ -9,7 +9,7 @@
   "private": true,
   "scripts": {
     "build": "forge build",
-    "test": "forge test",
+    "test": "forge test --no-match-test 'testFork'",
     "fmt": "forge fmt contracts/**/*.sol && forge fmt test/**/*.sol",
     "fork": "anvil --fork-url",
     "chain": "anvil --block-time 10",
