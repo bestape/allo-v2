@@ -10,12 +10,7 @@
 [submodule "lib/solady"]
 	path = lib/solady
 	url = https://github.com/vectorized/solady
-[submodule "lib/eas-contracts"]
-	path = lib/eas-contracts
-	url = https://github.com/ethereum-attestation-service/eas-contracts
-[submodule "lib/v2-core"]
-	path = lib/v2-core
-	url = https://github.com/sablier-labs/v2-core
-[submodule "lib/permit2"]
-	path = lib/permit2
-	url = https://github.com/Uniswap/permit2
+[submodule "lib/hats-protocol"]
+	path = lib/hats-protocol
+	url = https://github.com/Hats-Protocol/hats-protocol
+>>>>>>> 925a3ee01dedd209262e7c8ff55c4db843bbaaa2

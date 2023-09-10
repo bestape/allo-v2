@@ -3,8 +3,20 @@
 ds-test/=lib/forge-std/lib/ds-test/src/
 erc4626-tests/=lib/openzeppelin-contracts-upgradeable/lib/erc4626-tests/
 forge-std/=lib/forge-std/src/
+<<<<<<< HEAD
 permit2/=lib/permit2/src/interfaces/
 openzeppelin-contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/
 openzeppelin-contracts/=lib/openzeppelin-contracts/
 @prb/math/=lib/v2-core/lib/prb-math/
 eas-contracts/=lib/eas-contracts/contracts/
+=======
+
+@openzeppelin/=lib/openzeppelin-contracts/contracts/
+@openzeppelin-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
+
+@solady/=lib/solady/src/
+
+@hats-protocol/=lib/hats-protocol/src/
+
+@ethereum-attestation-service/=node_modules/@ethereum-attestation-service/eas-contracts/contracts/
+>>>>>>> 925a3ee01dedd209262e7c8ff55c4db843bbaaa2

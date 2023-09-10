@@ -16,8 +16,15 @@ extra_output = ["storageLayout"]
 # Grants access to solc
 allow_paths = ['node_modules']
 
+[rpc_endpoints]
+mainnet = "${MAINNET_RPC_URL}"
+
 [fmt]
+<<<<<<< HEAD
 ignore = ['contracts/strategies/_poc/qv-hackathon/SchemaResolver.sol']
 
 [rpc_endpoints]
   mainnet = "${MAINNET_RPC_URL}"
+=======
+ignore = ['contracts/strategies/qv-hackathon/SchemaResolver.sol']
+>>>>>>> 925a3ee01dedd209262e7c8ff55c4db843bbaaa2
