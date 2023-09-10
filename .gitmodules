@@ -13,4 +13,3 @@
 [submodule "lib/hats-protocol"]
 	path = lib/hats-protocol
 	url = https://github.com/Hats-Protocol/hats-protocol
->>>>>>> 925a3ee01dedd209262e7c8ff55c4db843bbaaa2
